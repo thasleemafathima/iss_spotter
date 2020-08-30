@@ -91,8 +91,6 @@ const nextISSTimesForMyLocation = function(callback) {
       });
     });
   });
-  /*
-  console.log(latlong,"Ameer");
-  */
+  
 };
 module.exports = { nextISSTimesForMyLocation };
